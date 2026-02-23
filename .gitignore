@@ -1,0 +1,5 @@
+# to ignore temp folder
+temp/
+
+# to ignore .tmp files
+.tmp
